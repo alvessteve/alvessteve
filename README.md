@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Steve Alves-Blyt</h1>
-<h4 align="center">A senior software engineer who loves to solve problems</h3>
+<h4 align="center">Software Engineer | Serverless Architect | Mentor </h3>
 
 
 - 🔭 currently working at [Palo IT](https://www.palo-it.com/)
 - 📝 I regularly write articles on [Medium](https://medium.com/@steve.alves2)
-- 💬 Ask me about Anything on React/React Native, Serverless, Spring and green software engineering
+- 💬 Ask me about Anything on React/React Native, Serverless Architecture, Spring and green software engineering
 - 📫 How to reach me salves.blyt@gmail.com
 
 <h3 align="left">Connect with me:</h3>
