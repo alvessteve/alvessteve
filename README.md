@@ -2,7 +2,6 @@
 <h4 align="center">Software Engineer | Serverless Architect | Mentor </h3>
 
 
-- 🔭 currently working at [Palo IT](https://www.palo-it.com/)
 - 📝 I regularly write articles on [Medium](https://medium.com/@steve.alves2) and [Hashnode](https://blog.alvessteve.com/)
 - 💬 Ask me about Anything on React/React Native, Serverless Architecture, Spring and green software engineering
 - 📫 How to reach me salves.blyt@gmail.com
