@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steve Alves-Blyt</h1>
-<h4 align="center">Software Engineer | Serverless Architect | Mentor </h3>
+<h4 align="center">Software Engineer | Solutions Architect | Mentor </h3>
 
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@steve.alves2) and [Hashnode](https://blog.alvessteve.com/)
