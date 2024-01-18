@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Steve Alves-Blyt</h1>
-<h4 align="center">Software Engineer | Solutions Architect | Mentor </h3>
+<h4 align="center">Software Engineer | Solutions Architect | Tech Lead </h3>
 
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@steve.alves2) and [Hashnode](https://blog.alvessteve.com/)
-- 💬 Ask me about Anything on React/React Native, Serverless Architecture, Spring and green software engineering
+- Looking for ny next opportunity !
+- 📝 I regularly write articles on [Medium](https://medium.com/@steve.alves2)
+- 💬 Ask me about Anything on React/React Native, Web Architecture, Spring and green software engineering
 - 📫 How to reach me salves.blyt@gmail.com
 
 <h3 align="left">Connect with me:</h3>
