@@ -2,7 +2,7 @@
 <h4 align="center">Software Engineer | Solutions Architect | Tech Lead </h3>
 
 - Looking for ny next opportunity !
-- 📝 I regularly write articles on [Medium](https://medium.com/@steve.alves2)
+- 📝 I regularly write articles on [Medium](https://medium.com/@steve.alves2) and my [blog](https://www.alvessteve.com/blog)
 - 💬 Ask me about Anything on React/React Native, Web Architecture, Spring and green software engineering
 - 📫 How to reach me salves.blyt@gmail.com
 
