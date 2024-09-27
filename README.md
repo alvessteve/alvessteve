@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steve Alves-Blyt</h1>
 <h4 align="center">Software Engineer | Solutions Architect | Tech Lead </h3>
 
-- Looking for ny next opportunity !
+- Working as an Assistant CTO at [Auriga](https://www.auriga.fr/)
 - 📝 I regularly write articles on [Medium](https://medium.com/@steve.alves2) and my [blog](https://www.alvessteve.com/blog)
 - 💬 Ask me about Anything on React/React Native, Web Architecture, Spring and green software engineering
 - 📫 How to reach me salves.blyt@gmail.com
