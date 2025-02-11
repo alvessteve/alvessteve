@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steve Alves-Blyt</h1>
 <h4 align="center">CTO | Technical Coach | Solutions Architect </h3>
 
-- Working as an VP Of Engineering @[Auriga](https://www.auriga.fr/)
+- Looking for my next opportunity !
 - 📝 I regularly write articles on [Medium](https://medium.com/@steve.alves2) and my [blog](https://www.alvessteve.com/blog)
 - 📫 How to reach me salves.blyt@gmail.com
 
