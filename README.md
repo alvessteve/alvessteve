@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steve Alves-Blyt</h1>
-<h4 align="center">CTO | Product Engineer | Technical Coach </h3>
+<h4 align="center">Hand-on Technical Leader | Product Engineer | Technical Coach </h3>
 
 - Looking for my next opportunity !
 - 📝 I regularly write articles on [Medium](https://medium.com/@steve.alves2) and my [blog](https://www.alvessteve.com/blog)
