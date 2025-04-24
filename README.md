@@ -3,7 +3,7 @@
 
 - Looking for my next opportunity !
 - Expertise in React/React Native, Spring and AWS
-- 📝 I regularly write articles on [Medium](https://medium.com/@steve.alves2)
+- 📝 I regularly write articles on [Medium](https://medium.com/@steve.alves2) and [Dev.to](https://dev.to/alvessteve)
 - 📫 How to reach me salves.blyt@gmail.com
 
 <h3 align="left">Connect with me:</h3>
