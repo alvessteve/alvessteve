@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steve Alves-Blyt</h1>
-<h4 align="center">Hand-on Technical Leader | Senior Software Engineer | Technical Coach </h3>
+<h4 align="center">Hand-on Technical Leader | Senior Software & Product Engineer | Technical Coach </h3>
 
 - Looking for my next opportunity !
 - Expertise in React/React Native, Spring and AWS
