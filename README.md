@@ -1,24 +1,101 @@
-<h1 align="center">Hi 👋, I'm Steve Alves-Blyt</h1>
-<h4 align="center">Hand-on Technical Leader | Senior Software & Product Engineer | Technical Coach </h3>
+# Steve Alves-Blyt | VP of Engineering & Tech Lead 👋
 
-- Looking for my next opportunity !
-- Expertise in React/React Native, Spring and AWS
-- 📝 I regularly write articles on [Medium](https://medium.com/@steve.alves2) and [Dev.to](https://dev.to/alvessteve)
-- 📫 How to reach me salves.blyt@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steve-alves-blyt-19684160)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/alvessteve)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@steve.alves2)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@alvesblyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alvesblyt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/steve-alves-19684160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steve-alves-19684160" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10732435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10732435" height="30" width="40" /></a>
-<a href="https://medium.com/@steve.alves2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@steve.alves2" height="30" width="40" /></a>
-</p>
+## About Me 🚀
+Engineering leader and hands-on technologist based in Paris, France. I bridge executive leadership with deep technical expertise, focusing on sustainable solutions and team growth. Whether architecting systems or leading engineering strategy, I believe in staying close to the code while driving organizational success.
+
+```javascript
+const steveAlvesBlyt = {
+    roles: {
+        current: "VP of Engineering & Tech Lead",
+        passion: "Sustainable Tech & Team Growth"
+    },
+    location: "Paris, France",
+    expertise: {
+        engineering: {
+            leadership: ["Strategy", "Team Scaling", "Technical Direction"],
+            hands_on: ["System Design", "Architecture", "Code Quality"]
+        },
+        tech: {
+            frontend: ["React", "React Native", "Angular"],
+            backend: ["Spring Boot"],
+            cloud: ["AWS"],
+            practices: ["Microservices", "Modulith", "DevOps", "Green Computing"]
+        }
+    },
+    values: ["Sustainability", "Innovation", "Mentorship"]
+};
+```
+
+## Professional Journey 🎯
+
+### Leadership & Engineering Mix
+- **VP of Engineering** - Leading technical strategy while maintaining hands-on involvement
+- **Tech Lead** - Architecting solutions and mentoring teams
+- **Senior Engineer** - Building scalable, sustainable systems
+
+### Key Projects & Impacts
+```mermaid
+graph LR
+    A[Team Leadership] --> B[Scaled Engineering Teams]
+    C[Technical Architecture] --> D[Sustainable Systems]
+    E[Hands-on Development] --> F[Production Solutions]
+```
+
+## Technical Leadership 💻
+
+### As VP of Engineering
+- Built high-performing engineering teams
+- Implemented sustainable development practices
+
+### As Tech Lead
+- Designed scalable architectures
+- Developed React/React Native applications
+- Implemented Spring Boot backend solutions
+
+## Content Creation ✍️
+I regularly share insights about:
+- Engineering Leadership
+- Sustainable Tech Practices
+- Technical Architecture
+- Team Building
+
+Follow my writing:
+- [Dev.to Articles](https://dev.to/alvessteve)
+- [Medium Stories](https://medium.com/@steve.alves2)
+
+## GitHub Activity 📊
+
+![Steve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvessteve&show_icons=true&theme=radical)
+
+## Green Tech Initiatives 🌱
+Leading sustainable technology practices:
+- Eco-friendly architecture patterns
+- Energy-efficient cloud solutions
+- Green computing initiatives
+- Environmental impact assessment
+
+## Let's Connect 🤝
+- 💼 [LinkedIn](https://www.linkedin.com/in/steve-alves-blyt-19684160)
+- 📝 [Medium](https://medium.com/@steve.alves2)
+- ✍️ [Dev.to](https://dev.to/alvessteve)
+- 📫 salves.blyt@gmail.com
+
+## Tech Stack & Tools 🔧
+### Leadership
+![Agile](https://img.shields.io/badge/Agile-blue?style=flat)
+![Team Building](https://img.shields.io/badge/Team_Building-success?style=flat)
+![Strategy](https://img.shields.io/badge/Strategy-red?style=flat)
+
+### Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
+*"Leading engineering excellence through sustainable practices"*
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alvessteve" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvessteve&layout=compact&langs_count=8&card_width=320" />
-</a>
+> Last Updated: 2025-07-07
