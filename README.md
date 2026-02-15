@@ -1,6 +1,6 @@
 # Hey, I'm Steve Alves-Blyt
 
-**Hands-On CTO | Product Engineer** who believes technical leaders should still ship code.
+**Hands-On Engineering Manager | Product Engineer** who believes technical leaders should still ship code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steve-alves-blyt-19684160)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/alvessteve)
